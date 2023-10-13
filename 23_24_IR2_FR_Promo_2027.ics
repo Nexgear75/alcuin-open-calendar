@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Calendrier Esaip//example.com//
+X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 SUMMARY:Cours - Programmation système (langage C)
 DTSTART;TZID=Europe/Paris:20231002T083000
